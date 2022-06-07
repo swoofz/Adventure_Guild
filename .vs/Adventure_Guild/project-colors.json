@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0dbe854-7eb3-455a-898b-3eb8b8c9674c": {
+      "ProjectGuid": "c0dbe854-7eb3-455a-898b-3eb8b8c9674c",
+      "DisplayName": "Adventure_Guild",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
